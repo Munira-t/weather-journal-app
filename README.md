@@ -22,8 +22,38 @@ The user must enter a valid zip code/name of the desierd city, and write a descr
 - Search for the current weather by zip code or city name.
 - Submit a journal entry which is then displayed on UI with the current weather data including: date, location, feelings and temperature.
 - Journal entry saved in an object on the local Express server (server.js).
+- 
 
-## ⚙ Strat
+## ⚙ Installation
 
-The project can be run by running the command "npm run start" then opening
-http://localhost:3000/ in browser.
+Make sure Node and npm are installed from the terminal.
+
+```
+node -v
+npm -v
+```
+
+1. Move to the project folder
+
+```
+cd <project directory>
+```
+
+2. Clone the repo
+
+```
+git clone <repo>
+```
+
+3. Install npm
+
+```
+npm install
+```
+
+4. Start the project
+
+|       Command        |                           Action                           |
+| :------------------: | :--------------------------------------------------------: |
+|     `npm start`      |  Run project then open http://localhost:3000/ in browser.  |
+
