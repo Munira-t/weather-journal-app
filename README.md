@@ -7,7 +7,7 @@ update the UI for a Weather-Journal App.
 The user must enter a valid zip code/name of the desierd city, and write a description of thier feeling at the moment. The app will then process the zip code and send it to the OpenWeatherMap API and then retrieve the required data and display it to the user interface such as date, weather description, temperature, weather emoji with pre-entered feelings description from the user.
 
 
-## 🧰 Technologies used:
+## 🧰 Built With:
 
 - HTML
 - CSS
@@ -57,3 +57,8 @@ npm install
 | :------------------: | :--------------------------------------------------------: |
 |     `npm start`      |  Run project then open http://localhost:3000/ in browser.  |
 
+## Acknowledgements
+
+- [Font Awesome](https://fontawesome.com)
+- [Photo by Lisa Fotios from Pexels](https://www.pexels.com/photo/silhouette-of-trees-during-golden-hour-1921336/)
+- [OpenWeatherMap API](https://openweathermap.org/api)
