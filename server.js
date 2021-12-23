@@ -24,7 +24,7 @@ app.use(
 app.use(express.static('website'));
 
 //  Setup Server
-const port = 3000;
+const port = process.env.POST || 3000;
 app.listen(port, () => {
   console.log(`server is running on port: http://localhost:${port}`);
 });
