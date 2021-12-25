@@ -59,6 +59,9 @@ npm install
 
 
 ## Demo
+
+![](https://github.com/Munira-t/weather-journal-app/blob/main/demo%20(2).gif)
+
 [Weather Journal App Live ](https://weather-journal-app-m.herokuapp.com/)
 
 
